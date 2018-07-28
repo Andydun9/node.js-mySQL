@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Andydun9/node.js-mySQL#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquire": "^0.4.8",
     "inquirer": "^6.0.0",
     "prompt": "^1.0.0",
